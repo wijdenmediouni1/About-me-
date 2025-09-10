@@ -1,7 +1,7 @@
-👋 Hi, I'm Wejden Mediouni  
+# Hi, I'm Wejden Mediouni  
 🎓 I'm a 3rd-year Computer Engineering student at ESPRIT, specializing in Business Intelligence and Data Analysis. I’m passionate about data-driven solutions, analytics, and creating actionable insights using code.
 
-💼 I’ve worked as:
+# I’ve worked as:
 
 📊 **Business Intelligence Intern** at Draexlmaier Siliana  
 - Developed predictive maintenance models for welding machines using Python  
@@ -17,25 +17,25 @@
 - Developed ETL pipelines, NLP for customer feedback, and time series forecasting models  
 - Delivered interactive Power BI dashboards for revenue, sales, and supplier analytics  
 
-💻 **Projects**  
+#💻 **Projects**  
 
 👗 **Business Intelligence Project | Fashion**  
 - Developed a BI reporting solution for global fashion brands  
 - Built a data warehouse using SSMS and SSAS, ETL pipelines, and interactive Power BI dashboards with KPIs and drill-downs  
 
-🔧 **Technologies I Use**  
+# 🔧 **Technologies I Use**  
 **Languages:** Python, Java, C#, SQL, PL/SQL  
 **Frameworks:** .NET, SpringBoot, Angular, Flask  
 **Tools & BI:** Power BI, SSIS, SSAS, Talend, Hadoop, MongoDB  
 **Domains:** Business Intelligence, Data Analysis, Predictive Analytics, Machine Learning  
 
-🌐 **Languages**  
+# **Languages**  
 Arabic (native)  
 French (B2)  
 English (B2)  
 Spanish  
 
-📫 **Let's Connect**  
+# 📫 **Let's Connect**  
 📧 wijdenemadiouni24@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/wijden-mediouni/)  
 🐙 [GitHub](https://github.com/wijdenmediouni1)  
