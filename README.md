@@ -3,7 +3,7 @@
 
 # I’ve worked as:
 
-📊 **Business Intelligence Intern** at Draexlmaier Siliana 
+📊 **Business Intelligence Intern** at Draexlmaier Siliana .
 💹 **Data Analysis Intern** at Bank of Tunisia  
 
 
