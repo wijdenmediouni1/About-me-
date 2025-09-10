@@ -3,25 +3,11 @@
 
 # I’ve worked as:
 
-📊 **Business Intelligence Intern** at Draexlmaier Siliana  
-- Developed predictive maintenance models for welding machines using Python  
-- Built complete ETL pipelines and integrated Flask APIs with interactive Power BI dashboards  
-- Followed the CRISP-DM methodology for end-to-end project delivery  
-
+📊 **Business Intelligence Intern** at Draexlmaier Siliana 
 💹 **Data Analysis Intern** at Bank of Tunisia  
-- Built a Power BI dashboard for STEG payment trends and future forecasts using Prophet  
-- Integrated Python for data cleaning and analysis  
 
-🛠️ **SAP FICO Intern** at Insights360 Platform  
-- Designed enterprise BI solutions for Monoprix France  
-- Developed ETL pipelines, NLP for customer feedback, and time series forecasting models  
-- Delivered interactive Power BI dashboards for revenue, sales, and supplier analytics  
 
-#💻 **Projects**  
-
-👗 **Business Intelligence Project | Fashion**  
-- Developed a BI reporting solution for global fashion brands  
-- Built a data warehouse using SSMS and SSAS, ETL pipelines, and interactive Power BI dashboards with KPIs and drill-downs  
+  
 
 # 🔧 **Technologies I Use**  
 **Languages:** Python, Java, C#, SQL, PL/SQL  
